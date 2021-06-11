@@ -7,8 +7,8 @@
 
 // Setup the variables
 var s = 0;
-var text = String;
-var speed = Number;
+var text;
+var speed;
 
 // The function, requires little effort
 function typer() {
