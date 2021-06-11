@@ -7,7 +7,7 @@
 
 // Setup the variables
 var s = 0;
-var text = "";
+var text = String;
 var speed = Number;
 
 // The function, requires little effort
