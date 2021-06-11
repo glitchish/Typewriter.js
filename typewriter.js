@@ -18,3 +18,5 @@ function typer() {
     setTimeout(typer, speed);
   }
 }
+
+// Edit this to what you want, but keep the credit there.
